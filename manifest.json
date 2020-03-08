@@ -3852,7 +3852,7 @@
           "hash": "dOE84GrLQ91GXdj6rcuO8A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3876,7 +3876,7 @@
           "hash": "Cg7Ple/0c50HtW0YwA/qLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3897,7 +3897,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "BgUm1pwXgFdTpcMrd2l8WQ=="
+          "hash": "n/U4bAXd+4Bu9oBdnA0kcw=="
         }
       },
       "is_incremental": false,
@@ -3942,7 +3942,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 0
+          "skipped_file_count": 2
         }
       }
     },
