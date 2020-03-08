@@ -3849,10 +3849,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "ELy18B2U50nzXXPspBdBDg=="
+          "hash": "dOE84GrLQ91GXdj6rcuO8A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3873,10 +3873,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "yERnFsQ+WDYmONQr409Tcw=="
+          "hash": "Cg7Ple/0c50HtW0YwA/qLA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3897,10 +3897,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "uGAZDXHNKnSwJIhgnjO7lA=="
+          "hash": "BgUm1pwXgFdTpcMrd2l8WQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -3942,7 +3942,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 3
+          "skipped_file_count": 0
         }
       }
     },
